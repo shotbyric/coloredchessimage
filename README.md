@@ -1,2 +1,2 @@
 # coloredchessimage
-This program takes an input integer n and a string containing 2 numbers. It creates an image (.ppm file) of a colored, nxn matrix.
+This program takes as an input an integer n and a string containing two colors separated by ", ". Its output an image (.ppm file) of a chess-pattern nxn matrix with the two colors typed by the user.
